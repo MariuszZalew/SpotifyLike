@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { useRouter } from "next/router";
 import Desktop from "./main-desktop";
-import { MODERN_BROWSERSLIST_TARGET } from "next/dist/shared/lib/constants";
 import Hamburger from "./main-hamburger";
 import HamMenu from "./main-ham-menu";
 import { useState } from "react";
